@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-This repository is a public showcase of games created using the Pixelfalls web game engine. Each cart is stored as a `.png` file and can be played directly on the mobile Pixelfalls play site using the cart URL and a display name.
+This repository is a public showcase of games I've created using the [PIXELLFALLS](https://www.pixelfalls.co.uk/) web game engine. Each cart is stored as a `.png` file and can be played directly on the mobile Pixelfalls play site using the links below.
 
 ## Play the carts
 

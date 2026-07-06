@@ -8,7 +8,7 @@ This repository is a public showcase of games I've created using the [PIXELLFALL
 
 Use the mobile Pixelfalls site to launch a cart directly from this repo.
 
-- [PTA POC](https://play.pixelfalls.co.uk/mobile/play?cart=https%3A%2F%2Fraw.githubusercontent.com%2Fjdobinson%2Fpixelfalls-carts%2Fmain%2FPTA.png&name=PTA)
+- [PTA](https://play.pixelfalls.co.uk/mobile/play?cart=https%3A%2F%2Fraw.githubusercontent.com%2Fjdobinson%2Fpixelfalls-carts%2Fmain%2FPTA.png&name=PTA)
 - [Pixel Catch](https://play.pixelfalls.co.uk/mobile/play?cart=https%3A%2F%2Fraw.githubusercontent.com%2Fjdobinson%2Fpixelfalls-carts%2Fmain%2FPixel%2520Catch.png&name=Pixel%20Catch)
 
 ## License
